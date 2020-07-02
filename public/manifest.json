@@ -1,7 +1,8 @@
-"name": "portfolio-app",
+{
+	"name": "portfolio-app",
 	"version": "0.1.0",
 	"private": true,
-	"homepage": "https://mzeesh2.github.io/me",
+	"homepage": "https://mzeesh2.github.io/React-Portfolio",
 	"dependencies": {
 		"gh-pages": "^2.0.1",
 		"react": "^16.8.3",
